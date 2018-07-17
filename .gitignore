@@ -32,5 +32,3 @@ Gemfile.lock, .ruby-version, .ruby-gemset
 bower.json
 
 # Ignore pow environment settings
-.powenv
-Gemfile.lock
