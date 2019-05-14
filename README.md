@@ -131,5 +131,3 @@ Test this out in the browser and you can see that you can now create and updated
 ## Does this need an update?
 
 Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-strong-params-basics/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-strong-params-basics/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
-
-<p data-visibility='hidden'>PHRG Strong Params Basics</p>
